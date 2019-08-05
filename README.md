@@ -1,5 +1,4 @@
 # The_Jungle_League_Rules
-# The Dojo's Dynasty League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
