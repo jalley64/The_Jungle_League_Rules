@@ -192,7 +192,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Consolation Bracket ###
 - Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
+- The winner of the consolation ladder will be awarded an extra pick at the end of the second round (2.13).
 - The consolation bracket has no bearing on draft order.
 
 <br><br>
