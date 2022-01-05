@@ -56,7 +56,7 @@ __Jacob Alley__
 #### Nomination ####
 - In order to nominate a rule change, simply propose it through the appropriate channel. If it gets endorsed (by adding an emoji showing your affirmation) by 3 more league members it will be on the docket for the end of the year summit.
 #### Passing A Rule ####
-- At the season end summit, we will vote on any nominated proposals. The commissioner's vote counts as 1.5 votes (essentially a tiebreaker). Majority is needed for a vote to pass.
+- At the season end summit, we will vote on any nominated proposals. A rule needs 8/12 to pass. If it does not hit 10/12 there will be a year delay before it comes into effect.
 #### Year Delay ####
 -  Any vote that fails to hit 10/12 will not go into effect until the following year. 
 <br>
@@ -106,7 +106,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 15 | No Limi
-   IR | 2 | No Limit
+   IR | 4 | No Limit
    Taxi | 3 | rookies only
 ### Offseason Rosters (Post-draft Rosters) ###
    Position | Starters | Maximum
@@ -118,7 +118,7 @@ If a team does not pay their dues by the designated date they are not eligible t
    FLEX (RB/WR/TE) | 2 | No Limit
    SuperFlex (QB/WR/RB/TE) | 1 | No Limit
    BE | 15 | No Limi
-   IR | 2 | No Limit
+   IR | 4 | No Limit
    Taxi | 3 | rookies only
 ### Taxi Squad ### 
  - There will be three taxi squad spots per team
@@ -224,9 +224,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ## __Section XI - Leaving the League__ ##
 ### Leaving the League ###
-- In the event that you wish to leave the league, you must let us know a year in advance, no later than the time that the following year's payment is due (a month before the rookie draft). Here is an example. You join the first year and pay the 2019 and 2020 dues. You decide you want to leave the league. You must notify the commissioner that 2020 will be your last year by late March 2020 (when the 2021 payment is due). 
-- During that final year, you will not be permitted to trade any future draft picks, whether receiving or sending.
-- If you are not willing to play the final season, you forfeit the money that you have paid.
+- Managers are expected to always be paid a year in advance. If they decide to leave they will be forfeiting that future buyin in order to help the league secure another manager.
 - In drastic circumstances the commissioner may consider refunding the buy-in however these instances will be very rare and far from the expectation.
 
 ### Missing Teams ###
